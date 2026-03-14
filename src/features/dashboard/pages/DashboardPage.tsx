@@ -8,7 +8,6 @@ import {
   CardTitle,
 } from "@/shared/components/ui/card";
 
-import { lazy } from "react";
 
 /**
  * Admin Dashboard - Trang chủ của admin.
